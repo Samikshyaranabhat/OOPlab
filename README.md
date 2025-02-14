@@ -1,1 +1,1 @@
-Use of friend function in C++
+Lab work of OOP BSC.Csit 2nd sem
